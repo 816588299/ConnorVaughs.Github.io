@@ -1,4 +1,4 @@
-title: Welcome to Connor's Homepage
+#Welcome to Connor's Homepage
 description: Big Data Analytics SDSU
 
 ## Welcome to GitHub Pages
