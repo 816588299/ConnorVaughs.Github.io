@@ -1,5 +1,5 @@
-#Welcome to Connor's Homepage
-description: Big Data Analytics SDSU
+# Welcome to Connor's Homepage
+Big Data Analytics SDSU
 
 ## Welcome to GitHub Pages
 
